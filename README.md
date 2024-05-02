@@ -32,7 +32,7 @@
   
   | Organization | Certificate |
   |-|-|
-  | [AI Hacks-AI](https://hacks-ai.ru/) | <img width="500" alt="image" src="(https://github.com/DaniilVanin/DaniilVanin/assets/129414783/c4feb899-b6d3-4707-82a6d5144ed66edb)"> <br> [PDF](https://github.com/DaniilVanin/DaniilVanin/blob/main/certificate.pdf)|
+  | [AI Hacks-AI](https://hacks-ai.ru/) | <img width="500" alt="image" src="https://github.com/DaniilVanin/DaniilVanin/assets/129414783/c4feb899-b6d3-4707-82a6d5144ed66edb"> <br> [PDF](https://github.com/DaniilVanin/DaniilVanin/blob/main/certificate.pdf)|
 </div>
 </details>
 
