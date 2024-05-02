@@ -33,6 +33,7 @@
   | Organization | Certificate |
   |-|-|
   | [AI Hacks-AI](https://hacks-ai.ru/) | <img width="500" alt="image" src="https://github.com/DaniilVanin/DaniilVanin/assets/129414783/e6c7ce47-042a-491c-ac26-565ec9c740fe">  <br> [PDF](https://github.com/DaniilVanin/DaniilVanin/blob/main/certificate.pdf)|
+  | [WorldSkills IoT Competence](https://worldskills.ru/) | <img width="500" alt="image" src="https://github.com/DaniilVanin/DaniilVanin/assets/129414783/301347af-d33b-4a27-8a92-4374caf4f351">  <br> [JPG](https://github.com/DaniilVanin/DaniilVanin/blob/main/iot_worldskills_final.jpg)|
 </div>
 </details>
 
