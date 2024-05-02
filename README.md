@@ -32,7 +32,7 @@
   
   | Organization | Certificate |
   |-|-|
-  | [AI Hacks-AI](https://hacks-ai.ru/) | <img width="500" alt="image" src="https://github.com/DaniilVanin/DaniilVanin/blob/main/certificate.pdf">  <br> [PDF](https://github.com/DaniilVanin/DaniilVanin/blob/main/certificate.pdf)|
+  | [AI Hacks-AI](https://hacks-ai.ru/) | <img width="500" alt="image" src="https://github.com/DaniilVanin/DaniilVanin/blob/main/iot_worldskills_final.jpg?raw=true">  <br> [PDF](https://github.com/DaniilVanin/DaniilVanin/blob/main/certificate.pdf)|
 </div>
 </details>
 
