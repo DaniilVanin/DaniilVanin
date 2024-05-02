@@ -26,6 +26,16 @@
 
 </div>
 
+<details>
+  <summary><h2>🔥 Certificates</h2></summary>
+  <div align="center">
+  
+  | Organization | Certificate |
+  |-|-|
+  | [AI Hacks-AI](https://hacks-ai.ru/) | <img width="500" alt="image" src="https://github.com/DaniilVanin/DaniilVanin/blob/main/certificate.pdf">  <br> [PDF](https://github.com/DaniilVanin/DaniilVanin/blob/main/certificate.pdf)|
+</div>
+</details>
+
  <div align="center">
   <img src="https://komarev.com/ghpvc/?username=DaniilVanin&style=flat&color=blue" alt=""/>
 </div>
