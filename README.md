@@ -1,16 +1,27 @@
-### Hi there 👋
+<p align="center">
+  <a href="https://github.com/DaniilVanin">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaniilVanin&theme=transparent"/>
+  </a>
+  <a href="https://github.com/DaniilVanin">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaniilVanin&hide_border=true&card_width=338&theme=transparent"/>
+  </a>
+  <a href="https://github.com/DaniilVanin">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DaniilVanin&theme=transparent"/>
+  </a>
+  <a href="https://github.com/DaniilVanin">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DaniilVanin&theme=transparent"/>
+  </a>
+  <a href="https://github.com/DaniilVanin">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DaniilVanin&theme=transparent"/>
+  </a>
+   <a href="https://github.com/DaniilVanin">
+    <img src="https://github-profile-trophy.vercel.app/?username=DaniilVanin&theme=onedark&column=4&margin-w=45&margin-h=45"/>
+  </a>
+</p>
 
-<!--
-**DaniilVanin/DaniilVanin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  [![CodeWars](https://www.codewars.com/users/DaniilVanin/badges/large)](https://www.codewars.com/users/DaniilVanin)
+
+</div>
